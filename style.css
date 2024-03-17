@@ -1,0 +1,19 @@
+*{
+    background-color: #191a1b;
+}
+
+.body{
+    font-family: 'GT America Standard', sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    
+}
+.navbar{
+    height: 88px;
+    color: white;
+    background-color: #191a1b;
+    display: flex;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
