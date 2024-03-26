@@ -1,19 +1,14 @@
-*{
-    background-color: #191a1b;
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
 }
 
-.body{
-    font-family: 'GT America Standard', sans-serif;
-    font-size: 20px;
-    line-height: 1.5;
-    
+#btncontainer{
+    text-align: center;
 }
-.navbar{
-    height: 88px;
-    color: white;
-    background-color: #191a1b;
-    display: flex;
-    top: 0;
-    left: 0;
-    width: 100%;
+
+.button{
+    padding: 10px 20px;
+    font-size: 1.5em;
 }
